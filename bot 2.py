@@ -84,4 +84,4 @@ async def r(ctx):
 
 
 
-bot.run("token")")
+bot.run("token")
